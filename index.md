@@ -29,7 +29,7 @@
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)  
    _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Jeroen Boydens_  
    _The Journal of Electronics (MDPI)_  
-   Published: 19 October 2022 [[code]](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [arXiv]
+   Published: 19 October 2022 [[code]](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [[PDF]]()
 - [**Impact of Selective Implementation on Soft Error Detection Through Low-level Re-execution**](https://ieeexplore.ieee.org/document/9730291)  
    _**Mohaddaseh Nikseresht**, Brent De Blaere, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_  
    _DASC 2021, IEEE Conference_  
