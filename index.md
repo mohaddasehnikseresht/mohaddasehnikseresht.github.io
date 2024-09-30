@@ -8,24 +8,24 @@
     </div>
 </div>
 
-## Education 
+# Education 
 - Ph.D., Computer Science, KU Leuven, Leuven, Belgium (2021–present)
 - M.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2017- 2019)
 - B.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2012- 2017)
 
-## Research Interests
+# Research Interests
 - Machine Learning
 - Optimization
 - Reliability
 - Robotics
 
-## Professional Experience
+# Professional Experience
 - [ORCID](https://orcid.org/0000-0002-3558-0303)
 - [LinkedIn](https://www.linkedin.com/in/mohaddaseh-nikseresht/)
 - [Curriculum Vitae](https://distrinet.cs.kuleuven.be/people/MohaddasehNikseresht)
 - Email: mohaddaseh.nikseresht@kuleuven.be
 
-## Publications
+# Publications
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)  
    _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Jeroen Boydens_  
    _The Journal of Electronics (MDPI)_  
