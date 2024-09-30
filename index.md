@@ -8,14 +8,16 @@
     </div>
 </div>
 
-<p style="font-size: 30px; font-weight: bold;" > Education </p> 
+
+<p style="font-size: 25px; font-weight: bold;" > Education </p> 
 
 ---------
 - Ph.D., Computer Science, KU Leuven, Leuven, Belgium (2021–present)
 - M.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2017- 2019)
 - B.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2012- 2017)
 
-<p style="font-size: 30px; font-weight: bold;" > Research Interests </p>
+
+<p style="font-size: 25px; font-weight: bold;" > Research Interests </p>
 
 ---------
 - Machine Learning
@@ -23,7 +25,8 @@
 - Reliability
 - Robotics
 
-<p style="font-size: 30px; font-weight: bold;" > Professional Experience </p>
+
+<p style="font-size: 25px; font-weight: bold;" > Professional Experience </p>
 
 ---------
 - [ORCID](https://orcid.org/0000-0002-3558-0303)
@@ -31,7 +34,8 @@
 - [Curriculum Vitae](https://distrinet.cs.kuleuven.be/people/MohaddasehNikseresht)
 - Email: mohaddaseh.nikseresht@kuleuven.be
 
-<p style="font-size: 30px; font-weight: bold;" > Publications </p>
+
+<p style="font-size: 25px; font-weight: bold;" > Publications </p>
 
 ---------
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)  
