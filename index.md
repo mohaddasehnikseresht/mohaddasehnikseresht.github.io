@@ -27,7 +27,8 @@
 
 ## Publications
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)
-   _The Journal of Electronics (MDPI)_ Published: 19 October 2022
+   _The Journal of Electronics (MDPI)_
+   Published: 19 October 2022
 - [**Impact of Selective Implementation on Soft Error Detection Through Low-level Re-execution**](https://ieeexplore.ieee.org/document/9730291)  
    _DASC 2021, IEEE Conference_  
    Presented: 25-28 October 2021, AB, Canada (Online)
