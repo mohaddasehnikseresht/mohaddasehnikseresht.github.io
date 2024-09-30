@@ -15,13 +15,17 @@
 - M.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2017- 2019)
 - B.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2012- 2017)
 
-## Research Interests
+<p style="font-size: 30px; font-weight: bold;" > Research Interests </p>
+
+---------
 - Machine Learning
 - Optimization
 - Reliability
 - Robotics
 
-## Professional Experience
+<p style="font-size: 30px; font-weight: bold;" > Professional Experience </p>
+
+---------
 - [ORCID](https://orcid.org/0000-0002-3558-0303)
 - [LinkedIn](https://www.linkedin.com/in/mohaddaseh-nikseresht/)
 - [Curriculum Vitae](https://distrinet.cs.kuleuven.be/people/MohaddasehNikseresht)
