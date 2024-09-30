@@ -33,7 +33,7 @@
 - [**Impact of Selective Implementation on Soft Error Detection Through Low-level Re-execution**](https://ieeexplore.ieee.org/document/9730291)  
    _**Mohaddaseh Nikseresht**, Brent De Blaere, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_  
    _DASC 2021, IEEE Conference_  
-   Presented: 25-28 October 2021, AB, Canada [[code]](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [[PDF]](./Impact_of_Selective_Implementation_on_Soft_Error_Detection_Through_Low)
+   Presented: 25-28 October 2021, AB, Canada [[code]](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [[PDF]](./PDF2.pdf)(./Impact_of_Selective_Implementation_on_Soft_Error_Detection_Through_Low)
 - [**A Selective Soft Error Protection Method for COTS Processor-based Systems**](https://ieeexplore.ieee.org/document/9579862)  
    _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_   
    _International Scientific Conference Electronics (ET), IEEE Conference_  
