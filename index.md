@@ -15,9 +15,9 @@
 
 ## Research Interests
 - Machine Learning
-- Robotics
 - Optimization
 - Reliability
+- Robotics
 
 ## Professional Experience
 - [orcid](https://orcid.org/0000-0002-3558-0303)
