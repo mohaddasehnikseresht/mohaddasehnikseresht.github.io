@@ -19,5 +19,4 @@ Welcome to my personal website! I'm a PhD researcher at KU Leuven. Here, you can
 
 ## Contact Information
 - Email: your-email@example.com
-- [GitHub](https://github.com/username)
 - [LinkedIn](https://linkedin.com/in/yourprofile)
