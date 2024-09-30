@@ -37,11 +37,11 @@
 - [**A Selective Soft Error Protection Method for COTS Processor-based Systems**](https://ieeexplore.ieee.org/document/9579862)  
    _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_   
    _International Scientific Conference Electronics (ET), IEEE Conference_  
-   Presented: 15-17 September 2021, Sozopol, Bulgaria [[code]](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [arXiv]
+   Presented: 15-17 September 2021, Sozopol, Bulgaria [[code]](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [[PDF]](./PDF3.pdf)
 - [**UMOTS: An Uncertainty-aware Multi-objective Genetic Algorithm-based Static Task Scheduling for Heterogeneous Embedded Systems**](https://link.springer.com/article/10.1007/s11227-021-03887-1)   
    _Mohsen Raji, **Mohaddaseh Nikseresht**_  
    _The Journal of Supercomputing_  
-   Published: 25 May 2021 [arXiv]
+   Published: 25 May 2021 [[PDF]]()
 - [**MOGATS: A Multi-Objective Genetic Algorithm Based Task Scheduling for Heterogeneous Embedded Systems**](https://www.researchgate.net/publication/350547703_MOGATS_a_multi-objective_genetic_algorithm-based_task_scheduling_for_heterogeneous_embedded_systems)  
    _**Mohaddaseh Nikseresht**, Mohsen Raji_  
    _International Journal of Embedded Systems_  
