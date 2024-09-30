@@ -31,7 +31,9 @@
 - [Curriculum Vitae](https://distrinet.cs.kuleuven.be/people/MohaddasehNikseresht)
 - Email: mohaddaseh.nikseresht@kuleuven.be
 
-## Publications
+<p style="font-size: 30px; font-weight: bold;" > Publications </p>
+
+---------
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)  
    _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Jeroen Boydens_  
    _The Journal of Electronics (MDPI)_  
