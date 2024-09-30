@@ -2,6 +2,7 @@
 
 # Mohaddaseh Nikseresht 
 
+<img src="{{ site.photo }}" alt="Your Photo" style="width:150px;">
 Welcome to my personal website! I'm a PhD researcher at KU Leuven. Here, you can find information about my research, publications, and contact details.
 
 ## Research Interests
