@@ -27,21 +27,26 @@
 
 ## Publications
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)  
+   _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Jeroen Boydens_  
    _The Journal of Electronics (MDPI)_
    Published: 19 October 2022
 - [**Impact of Selective Implementation on Soft Error Detection Through Low-level Re-execution**](https://ieeexplore.ieee.org/document/9730291)  
+   _**Mohaddaseh Nikseresht**, Brent De Blaere, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_  
    _DASC 2021, IEEE Conference_  
    Presented: 25-28 October 2021, AB, Canada (Online)
 - [**A Selective Soft Error Protection Method for COTS Processor-based Systems**](https://ieeexplore.ieee.org/document/9579862)  
+   _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_   
    _International Scientific Conference Electronics (ET), IEEE Conference_  
    Presented: 15-17 September 2021, Sozopol, Bulgaria
 - [**UMOTS: An Uncertainty-aware Multi-objective Genetic Algorithm-based Static Task Scheduling for Heterogeneous Embedded Systems**](https://link.springer.com/article/10.1007/s11227-021-03887-1)  
-   _The Journal of Supercomputing_  
+   _The Journal of Supercomputing_
+   _Mohsen Raji, **Mohaddaseh Nikseresht**_
    Published: 25 May 2021
 - [**MOGATS: A Multi-Objective Genetic Algorithm Based Task Scheduling for Heterogeneous Embedded Systems**](https://www.researchgate.net/publication/350547703_MOGATS_a_multi-objective_genetic_algorithm-based_task_scheduling_for_heterogeneous_embedded_systems)  
+   _**Mohaddaseh Nikseresht**, Mohsen Raji_
    _International Journal of Embedded Systems_  
    Published: 31 March 2021
-- [**A Multi-objective Task Scheduling Method for Embedded System Design**](https://ieeexplore.ieee.org/document/9050062)
-   _**Mohaddaseh Nikseresht**; Mohsen Raji
+- [**A Multi-objective Task Scheduling Method for Embedded System Design**](https://ieeexplore.ieee.org/document/9050062)  
+   _**Mohaddaseh Nikseresht**, Mohsen Raji_  
    _CSICC 2020, IEEE Conference_  
    Presented: 1 January 2020, Tehran, Iran
