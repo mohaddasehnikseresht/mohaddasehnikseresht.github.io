@@ -18,7 +18,6 @@
 - Optimization
 - Reliability
 - Robotics
-- Embedded Systems
 
 ## Professional Experience
 - [ORCID](https://orcid.org/0000-0002-3558-0303)
