@@ -20,12 +20,14 @@ a:hover {
 
 /* New styles for the image and text layout */
 .photo-text-container {
+
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 }
 
 .photo-text-container img {
+    width: 250px; /* Set image width to 250px */
     width: 250px;
     margin-right: 20px;
 }
