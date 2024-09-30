@@ -9,8 +9,8 @@
 </div>
 
 ## Education 
--- M.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2017- 2019)
--- B.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2012- 2017)
+- M.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2017- 2019)
+- B.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2012- 2017)
 
 ## Research Interests
 - Machine Learning
