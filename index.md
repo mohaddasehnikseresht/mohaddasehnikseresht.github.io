@@ -1,8 +1,14 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-<img src="{{ site.photo }}" alt="Your Photo" style="width:250px;">
-
-Welcome to my personal website! I'm a PhD researcher at KU Leuven. Here, you can find information about my research, publications, and contact details.
+<div style="display: flex; align-items: center;">
+    <div style="flex-shrink: 0;">
+        <img src="{{ site.photo }}" alt="Your Photo" style="width:250px; margin-right: 250px;">
+    </div>
+    <div>
+        <h1>Welcome to my personal website!</h1>
+        <p>I'm a PhD researcher at KU Leuven. Here, you can find information about my research, publications, and contact details.</p>
+    </div>
+</div>
 
 ## Research Interests
 - Machine Learning
