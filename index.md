@@ -27,22 +27,19 @@
 
 ## Publications
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)
- _The Journal of Electronics (MDPI)_ Published: 19 October 2022
+   _The Journal of Electronics (MDPI)_ Published: 19 October 2022
 - [**Impact of Selective Implementation on Soft Error Detection Through Low-level Re-execution**](https://ieeexplore.ieee.org/document/9730291)  
    _DASC 2021, IEEE Conference_  
    Presented: 25-28 October 2021, AB, Canada (Online)
-- **A Selective Soft Error Protection Method for COTS Processor-based Systems**  
+- [**A Selective Soft Error Protection Method for COTS Processor-based Systems**](https://ieeexplore.ieee.org/document/9579862)
    _International Scientific Conference Electronics (ET), IEEE Conference_  
    Presented: 15-17 September 2021, Sozopol, Bulgaria
-- **UMOTS: An Uncertainty-aware Multi-objective Genetic Algorithm-based Static Task Scheduling for Heterogeneous Embedded Systems**  
+- [**UMOTS: An Uncertainty-aware Multi-objective Genetic Algorithm-based Static Task Scheduling for Heterogeneous Embedded Systems**](https://link.springer.com/article/10.1007/s11227-021-03887-1)
    _The Journal of Supercomputing_  
    Published: 25 May 2021
-- **MOGATS: A Multi-Objective Genetic Algorithm Based Task Scheduling for Heterogeneous Embedded Systems**  
+- [**MOGATS: A Multi-Objective Genetic Algorithm Based Task Scheduling for Heterogeneous Embedded Systems**](https://www.researchgate.net/publication/350547703_MOGATS_a_multi-objective_genetic_algorithm-based_task_scheduling_for_heterogeneous_embedded_systems)
    _International Journal of Embedded Systems_  
    Published: 31 March 2021
-- **A Multi-objective Task Scheduling Method for Embedded System Design**  
+- [**A Multi-objective Task Scheduling Method for Embedded System Design**](https://ieeexplore.ieee.org/document/9050062)  
    _CSICC 2020, IEEE Conference_  
    Presented: 1 January 2020, Tehran, Iran
-- **Enhancing the Reliability of Autonomous Mobile Robots Against Bit Flips Impact**  
-   _IEEE Transactions on Reliability_  
-   Status: In Progress
