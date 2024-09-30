@@ -1,3 +1,4 @@
+/* Existing styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
@@ -15,4 +16,20 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+/* New styles for the image and text layout */
+.photo-text-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.photo-text-container img {
+    width: 250px;
+    margin-right: 20px;
+}
+
+.photo-text-container div {
+    max-width: 600px;
 }
