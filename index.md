@@ -45,15 +45,15 @@
 
 - [**A Study on Selective Implementation Approaches for Soft Error Detection Using S-SWIFT-R**](https://www.mdpi.com/2079-9292/11/20/3380)  
    _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Jeroen Boydens_  
-   _The Journal of Electronics (*MDPI*)_  
+   _The Journal of Electronics (**MDPI**)_  
    Published: 19 October 2022 [*[code]*](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [*[PDF]*](./electronics-11-03380-v2.pdf)
 - [**Impact of Selective Implementation on Soft Error Detection Through Low-level Re-execution**](https://ieeexplore.ieee.org/document/9730291)  
    _**Mohaddaseh Nikseresht**, Brent De Blaere, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_  
-   _*DASC* 2021, IEEE Conference_  
+   _**DASC** 2021, IEEE Conference_  
    Presented: 25-28 October 2021, AB, Canada [*[code]*](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [*[PDF]*](./PDF2.pdf)
 - [**A Selective Soft Error Protection Method for COTS Processor-based Systems**](https://ieeexplore.ieee.org/document/9579862)  
    _**Mohaddaseh Nikseresht**, Jens Vankeirsbilck, Davy Pissoort, Jeroen Boydens_   
-   _International Scientific Conference Electronics (*ET*), IEEE Conference_  
+   _International Scientific Conference Electronics (**ET**), IEEE Conference_  
    Presented: 15-17 September 2021, Sozopol, Bulgaria [*[code]*](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [*[PDF]*](./PDF3.pdf)
 - [**UMOTS: An Uncertainty-aware Multi-objective Genetic Algorithm-based Static Task Scheduling for Heterogeneous Embedded Systems**](https://link.springer.com/article/10.1007/s11227-021-03887-1)   
    _Mohsen Raji, **Mohaddaseh Nikseresht**_  
@@ -65,5 +65,5 @@
    Published: 31 March 2021[*[PDF]*](./authorFinalVersion.pdf)
 - [**A Multi-objective Task Scheduling Method for Embedded System Design**](https://ieeexplore.ieee.org/document/9050062)  
    _**Mohaddaseh Nikseresht**, Mohsen Raji_  
-   _*CSICC* 2020, IEEE Conference_  
+   _**CSICC** 2020, IEEE Conference_  
    Presented: 1 January 2020, Tehran, Iran[*[PDF]*](./PDF6.pdf)
