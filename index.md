@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
- <h1>Welcome to my personal website!</h1>
+ <h1>Mohaddaseh Nikseresht</h1>
 <div class="photo-text-container">
     <img src="{{ site.photo }}" alt="Your Photo">
     <div>
