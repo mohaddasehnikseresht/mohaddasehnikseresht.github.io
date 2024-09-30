@@ -8,6 +8,8 @@
     </div>
 </div>
 
+Education
+---------
 ## Education 
 - Ph.D., Computer Science, KU Leuven, Leuven, Belgium (2021–present)
 - M.Sc., Computer Engineering, Shiraz University, Shiraz, Iran (2017- 2019)
