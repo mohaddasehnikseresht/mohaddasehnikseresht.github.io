@@ -10,13 +10,14 @@ h1 {
     text-align: center;
 }
 
-h2 {
-
-}
 /* Ensure headings or other text don't have link-like hover effects */
 h1, h2, h3, h4, h5, h6, p {
     cursor: default; /* Removes the "pointer" cursor */
     text-decoration: none; /* Ensures no underline or link style */
+}
+
+h2 {
+
 }
 
 a, a:visited, a:active, a:link {
