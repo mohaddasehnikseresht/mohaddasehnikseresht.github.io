@@ -4,7 +4,7 @@
 <div class="photo-text-container">
     <img src="{{ site.photo }}" alt="Your Photo">
     <div>
-        <p>I'm a PhD researcher at KU Leuven. Here, you can find information about my research, publications, and contact details.</p>
+        <p> I’m a Computer Science researcher at the Mechatronics Group (M-Group) at KU Leuven. I enjoy solving problems in the fields of AI and Machine Learning. I’m supervised by Prof. Jeroen Boydens, with co-supervision from [Prof. Davy Pissoort](https://www.kuleuven.be/wieiswie/nl/person/00066189) and [Dr. Jens Vankeirsbilck](https://www.kuleuven.be/wieiswie/nl/person/00099817) My research is generously supported by the Marie Sklodowska-Curie Fellowship, one of the most prestigious fellowships in Europe. Prior to KU Leuven, I spent some amazing years at Shiraz University working with [Prof. Mohsen Raji](https://ece.shirazu.ac.ir/en/~m-raji).  </p>
     </div>
 </div>
 
@@ -18,6 +18,7 @@
 - Optimization
 - Reliability
 - Robotics
+- Embedded Systems
 
 ## Professional Experience
 - [ORCID](https://orcid.org/0000-0002-3558-0303)
