@@ -25,7 +25,7 @@
 - Machine Learning
 - Optimization
 - Reliability
-- Robotics
+
 
 
 
