@@ -8,7 +8,7 @@
     </div>
 </div>
 
-<p style="font-size: 60px; font-weight: bold;" > Education </p> 
+<p style="font-size: 30px; font-weight: bold;" > Education </p> 
 
 ---------
 - Ph.D., Computer Science, KU Leuven, Leuven, Belgium (2021–present)
