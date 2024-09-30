@@ -19,6 +19,12 @@
 - Optimization
 - Reliability
 
+## Professional Experience
+- [orcid](https://orcid.org/0000-0002-3558-0303)
+- [LinkedIn](https://distrinet.cs.kuleuven.be/people/MohaddasehNikseresht)
+- [Curriculum vitae]
+- Email: mohaddaseh.nikseresht@kuleuven.be
+
 ## Publications
 1. **[Title of Paper](link-to-paper)**  
    Journal Name, Year.
