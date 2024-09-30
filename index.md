@@ -22,8 +22,7 @@
 ## Professional Experience
 - [orcid](https://orcid.org/0000-0002-3558-0303)
 - [LinkedIn](https://distrinet.cs.kuleuven.be/people/MohaddasehNikseresht)
-- [Curriculum Vitae - Summary]
-- [Curriculum Vitae - Detailed]
+- [Curriculum Vitae](https://distrinet.cs.kuleuven.be/people/MohaddasehNikseresht)
 - Email: mohaddaseh.nikseresht@kuleuven.be
 
 ## Publications
