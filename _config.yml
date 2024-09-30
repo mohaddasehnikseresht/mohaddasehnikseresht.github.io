@@ -1,3 +1,8 @@
+title: ""  # Leave this blank to remove the title
+email: mohaddaseh.nikseresht@kuleuven.be
+description: "Personal page"
+baseurl: ""
+url: "https://mohaddasehnikseresht.github.io"
 # Add your photo
 photo: /Me.jpg
 
