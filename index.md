@@ -1,9 +1,9 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
+ <h1>Welcome to my personal website!</h1>
 <div class="photo-text-container">
     <img src="{{ site.photo }}" alt="Your Photo">
     <div>
-        <h1>Welcome to my personal website!</h1>
         <p>I'm a PhD researcher at KU Leuven. Here, you can find information about my research, publications, and contact details.</p>
     </div>
 </div>
