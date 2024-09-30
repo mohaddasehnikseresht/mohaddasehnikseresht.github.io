@@ -8,3 +8,4 @@ theme: jekyll-theme-minimal # Change this to the theme you chose
 
 # Add your photo
 photo: /Me.jpg
+<img src="{{ site.photo }}" alt="Your Photo" style="width:150px;">
