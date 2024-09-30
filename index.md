@@ -31,7 +31,3 @@
 
 2. **[Another Paper](link-to-paper)**  
    Conference Name, Year.
-
-## Contact Information
-- Email: your-email@example.com
-- [LinkedIn](https://linkedin.com/in/yourprofile)
