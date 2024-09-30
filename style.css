@@ -10,6 +10,12 @@ h1 {
     text-align: center;
 }
 
+/* Ensure headings or other text don't have link-like hover effects */
+h1, h2, h3, h4, h5, h6, p {
+    cursor: default; /* Removes the "pointer" cursor */
+    text-decoration: none; /* Ensures no underline or link style */
+}
+
 a, a:visited, a:active, a:link {
     color: inherit; /* Inherit the text color from the surrounding element */
     text-decoration: underline; /* Keep the underline */
