@@ -41,6 +41,7 @@
 - [**MOGATS: A Multi-Objective Genetic Algorithm Based Task Scheduling for Heterogeneous Embedded Systems**](https://www.researchgate.net/publication/350547703_MOGATS_a_multi-objective_genetic_algorithm-based_task_scheduling_for_heterogeneous_embedded_systems)  
    _International Journal of Embedded Systems_  
    Published: 31 March 2021
-- [**A Multi-objective Task Scheduling Method for Embedded System Design**](https://ieeexplore.ieee.org/document/9050062)  
+- [**A Multi-objective Task Scheduling Method for Embedded System Design**](https://ieeexplore.ieee.org/document/9050062)
+   _**Mohaddaseh Nikseresht**; Mohsen Raji
    _CSICC 2020, IEEE Conference_  
    Presented: 1 January 2020, Tehran, Iran
