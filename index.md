@@ -1,9 +1,7 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
-<div style="display: flex; align-items: center;">
-    <div style="flex-shrink: 0;">
-        <img src="{{ site.photo }}" alt="Your Photo" style="width:250px; margin-right: 250px;">
-    </div>
+<div class="photo-text-container">
+    <img src="{{ site.photo }}" alt="Your Photo">
     <div>
         <h1>Welcome to my personal website!</h1>
         <p>I'm a PhD researcher at KU Leuven. Here, you can find information about my research, publications, and contact details.</p>
