@@ -71,7 +71,7 @@ _**Mohaddaseh Nikseresht**, Mohsen Raji_
 
 ---------
 <p style="font-size: 25px; font-weight: bold;" > My PhD Journey in Pictures </p>
-<p>Take a look at some of the highlights from my PhD research through these demo videos. Each one showcases key moments in my work and the innovative tools I've developed during my academic journey. </p>
+<p> Explore some of the key highlights from my PhD research through these demo videos. Each video captures pivotal moments in my work—moments that inspired me to document and share my progress </p>
   <div class="video-wrapper">
   <div class="video-container">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7152381815687684098" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
