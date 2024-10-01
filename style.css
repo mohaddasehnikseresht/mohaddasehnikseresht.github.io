@@ -48,3 +48,18 @@ a:hover {
 .photo-text-container div {
     max-width: 600px;
 }
+.video-wrapper {
+    display: flex;
+    justify-content: space-between; /* Adds space between the videos */
+    flex-wrap: wrap; /* Allows wrapping for smaller screens */
+    gap: 10px; /* Adds space between the videos */
+  }
+
+.video-container {
+    flex: 1 1 45%; /* Each video takes up 45% of the width, adjusts on smaller screens */
+  }
+
+.video-container iframe {
+    width: 100%;
+    height: 400px; /* Adjust height as needed */
+}
