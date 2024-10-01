@@ -70,8 +70,8 @@ _**Mohaddaseh Nikseresht**, Mohsen Raji_
    Published: 19 October 2022 [*[Project's Public Repository]*](https://gitlab.kuleuven.be/m-group-campus-brugge/distrinet_public/public_dfed_plugin) [*[PDF]*](./electronics-11-03380-v2.pdf)  
 
 ---------
-<p style="font-size: 25px; font-weight: bold;" > Demo Work </p>
-
+<p style="font-size: 25px; font-weight: bold;" > My PhD Journey in Pictures </p>
+<p>Take a look at some of the highlights from my PhD research through these demo videos. Each one showcases key moments in my work and the innovative tools I've developed during my academic journey. </p>
   <div class="video-wrapper">
   <div class="video-container">
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7152381815687684098" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
