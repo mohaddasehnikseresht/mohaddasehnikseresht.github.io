@@ -25,6 +25,7 @@
 - Machine Learning
 - Optimization
 - Reliability
+- Reinforcement learnings
 
 
 
