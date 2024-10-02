@@ -72,13 +72,20 @@ _**Mohaddaseh Nikseresht**, Mohsen Raji_
 ---------
 <p style="font-size: 25px; font-weight: bold;" > My PhD Journey in Pictures </p>
 <p> Explore some of the key highlights from my PhD research through these demo videos. Each video captures pivotal moments in my work—moments that inspired me to document and share my progress </p>
-  <div class="video-wrapper">
+ <div class="video-wrapper">
   <div class="video-container">
+    <h2>Title of the First Video</h2>
+    <p>Add your description here for the first video. This can be a brief explanation of its content.</p>
     <iframe src="https://www.youtube.com/embed/k9V-MeuL4lI" frameborder="0" allowfullscreen title="YouTube Short"></iframe>
   </div>
 
   <div class="video-container">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/L_tvSeqqjNM?si=qeIQ6aWOKQKNjFn1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2>Title of the Second Video</h2>
+    <p>Add your description here for the second video. This can be a brief explanation of its content.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/L_tvSeqqjNM?si=qeIQ6aWOKQKNjFn1" 
+            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen></iframe>
   </div>
 </div>
 
