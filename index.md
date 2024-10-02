@@ -101,7 +101,7 @@ The implementation of this test is multifaceted and complex, utilizing SMACH (a 
   <div class="video-container">
     <h2>Automated Conveyor Belt Control System with Sensor-Triggered Stop</h2>
     <p>This application case involves a process where, when the start button is pressed, the conveyor belt starts running. If a box is placed on the conveyor belt, it moves continuously until the box triggers a sensor. Once the sensor is activated, the conveyor belt automatically stops.</p>
-    <iframe src="https://youtube.com/shorts/x973ByfIbdc?si=BD0UvXSuaH1OGn3G" frameborder="0" allowfullscreen title="YouTube Short"></iframe>
+    <iframe src="https://www.youtube.com/embed/x973ByfIbdc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
   <div class="video-container">
