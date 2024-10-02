@@ -97,13 +97,27 @@ The implementation of this test is multifaceted and complex, utilizing SMACH (a 
 </div>
 
 ---------
-  <div class="video-wrapper">
+ <div class="video-wrapper">
   <div class="video-container">
-   <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7046236901292298241" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    <h2>Automated Conveyor Belt Control System with Sensor-Triggered Stop</h2>
+    <p>This application case involves a process where, when the start button is pressed, the conveyor belt starts running. If a box is placed on the conveyor belt, it moves continuously until the box triggers a sensor. Once the sensor is activated, the conveyor belt automatically stops.</p>
+    <iframe src="https://youtube.com/shorts/x973ByfIbdc?si=rU815ZzvBs7UJtPT" frameborder="0" allowfullscreen title="YouTube Short"></iframe>
   </div>
 
   <div class="video-container">
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6980784512041394176" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+    <h2>Autonomous Robot Docking: Reliability Testing with Bit Flip Injection | KU Leuven Lab Demo</h2>
+    <p>After a month of development and testing, it's finally here! ☺️ 🤖🦾🦿♥️
+This demonstration showcases the reliability testing of a docking application in a small-scale factory lab at KU Leuven, Campus Brugge, Belgium.
+
+In summary, we automatically inject bit flips based on control flow or data flow errors and then monitor the application's response to these errors. This process allows us to test and evaluate the application's behavior under such conditions.
+
+The implementation of this test is multifaceted and complex, utilizing SMACH (a task-level architecture for rapidly creating complex robot behavior). It involves the development of several components and nodes: the primary application being tested, a monitoring node that tracks the application’s response to errors, and a fault injection node that introduces the bit flips. Additionally, ensuring effective communication between these components is a critical aspect of the system.
+
+#ros #c #c++ #python #reliability #autonomousmobilerobots.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/L_tvSeqqjNM?si=qeIQ6aWOKQKNjFn1" 
+            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+            encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+            allowfullscreen></iframe>
   </div>
 </div>
 ---------
