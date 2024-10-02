@@ -71,7 +71,7 @@ _**Mohaddaseh Nikseresht**, Mohsen Raji_
 
 ---------
 <p style="font-size: 25px; font-weight: bold;" > My PhD Journey in Pictures </p>
-<p> Explore some of the key highlights from my PhD research through these demo videos. Each video captures pivotal moments in my work—moments that inspired me to document and share my progress </p>
+<p> Explore some of the key highlights from my PhD research through these demo videos. Each video captures pivotal moments in my work—moments that inspired me to document and share my progress.These videos are available on my LinkedIn, organized by timeline, and to make them more accessible, I’ve recently uploaded two selected ones to YouTube as well</p>
  <div class="video-wrapper">
   <div class="video-container">
     <h2>Autonomous Mobile Robot Docking Demo: Precision with ROS Integration</h2>
