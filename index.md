@@ -80,9 +80,9 @@ _**Mohaddaseh Nikseresht**, Mohsen Raji_
   </div>
 
   <div class="video-container">
-    <h2>Autonomous Robot Docking: Reliability Testing with Bit Flip Injection | KU Leuven Lab Demo</h2>
+    <h2>Autonomous Robot Docking: Reliability Testing with Bit Flip Injection | KU Leuven The Ulti­mate Factory Lab Demo</h2>
     <p>After a month of development and testing, it's finally here! ☺️ 🤖🦾🦿♥️
-This demonstration showcases the reliability testing of a docking application in a small-scale factory lab at KU Leuven, Campus Brugge, Belgium.
+This demonstration showcases the reliability testing of a docking application in a The Ulti­mate Factory lab at KU Leuven, Campus Brugge, Belgium.
 
 In summary, we automatically inject bit flips based on control flow or data flow errors and then monitor the application's response to these errors. This process allows us to test and evaluate the application's behavior under such conditions.
 
