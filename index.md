@@ -74,14 +74,21 @@ _**Mohaddaseh Nikseresht**, Mohsen Raji_
 <p> Explore some of the key highlights from my PhD research through these demo videos. Each video captures pivotal moments in my work—moments that inspired me to document and share my progress </p>
  <div class="video-wrapper">
   <div class="video-container">
-    <h2>Title of the First Video</h2>
-    <p>Add your description here for the first video. This can be a brief explanation of its content.</p>
+    <h2>Autonomous Mobile Robot Docking Demo: Precision with ROS Integration</h2>
+    <p>🚀 Demo of the Autonomous Mobile Robot (AMR) docking application! 🤖✨ Developed as a custom ROS node, this project demonstrates precise and efficient docking of the AMR to its station. ❄️🔧 #Robotics #ROS #AMR #Automation #Innovation.</p>
     <iframe src="https://www.youtube.com/embed/k9V-MeuL4lI" frameborder="0" allowfullscreen title="YouTube Short"></iframe>
   </div>
 
   <div class="video-container">
-    <h2>Title of the Second Video</h2>
-    <p>Add your description here for the second video. This can be a brief explanation of its content.</p>
+    <h2>Autonomous Robot Docking: Reliability Testing with Bit Flip Injection | KU Leuven Lab Demo</h2>
+    <p>After a month of development and testing, it's finally here! ☺️ 🤖🦾🦿♥️
+This demonstration showcases the reliability testing of a docking application in a small-scale factory lab at KU Leuven, Campus Brugge, Belgium.
+
+In summary, we automatically inject bit flips based on control flow or data flow errors and then monitor the application's response to these errors. This process allows us to test and evaluate the application's behavior under such conditions.
+
+The implementation of this test is multifaceted and complex, utilizing SMACH (a task-level architecture for rapidly creating complex robot behavior). It involves the development of several components and nodes: the primary application being tested, a monitoring node that tracks the application’s response to errors, and a fault injection node that introduces the bit flips. Additionally, ensuring effective communication between these components is a critical aspect of the system.
+
+#ros #c #c++ #python #reliability #autonomousmobilerobots.</p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/L_tvSeqqjNM?si=qeIQ6aWOKQKNjFn1" 
             title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
             encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
