@@ -78,7 +78,7 @@ _**Mohaddaseh Nikseresht**, Mohsen Raji_
   </div>
 
   <div class="video-container">
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7152371827367936000" frameborder="0" allowfullscreen="" title="Embedded post"> </iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/L_tvSeqqjNM?si=qeIQ6aWOKQKNjFn1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 </div>
 
