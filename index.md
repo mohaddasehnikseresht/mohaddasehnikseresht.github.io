@@ -105,14 +105,12 @@ The implementation of this test is multifaceted and complex, utilizing SMACH (a 
   </div>
 
   <div class="video-container">
-    <h2>Autonomous Robot Docking: Reliability Testing with Bit Flip Injection | KU Leuven Lab Demo</h2>
-    <p>After a month of development and testing, it's finally here! ☺️ 🤖🦾🦿♥️.</p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/L_tvSeqqjNM?si=qeIQ6aWOKQKNjFn1" 
-            title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-            encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
-            allowfullscreen></iframe>
+    <h2>Evaluating AMR Vulnerability Through Dynamic Bit Flip Injection</h2>
+    <p>The AMR is executing a movement application, while I dynamically and automatically inject bit flips at the application level using the GDB debugger. The fault injection results in the AMR's performance stopping, revealing its vulnerability to bit flips.</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/d_D0XEPEI44" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
   </div>
-</div>
+</div>  
 ---------
   <div class="video-wrapper">
   <div class="video-container">
