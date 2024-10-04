@@ -36,7 +36,8 @@
 - [ORCID](https://orcid.org/0000-0002-3558-0303)
 - [LinkedIn](https://www.linkedin.com/in/mohaddaseh-nikseresht/)
 - [Curriculum Vitae](./Mohaddaseh_CV.pdf)
-- [Recommendation Letter](./Mohaddaseh_Ref1.pdf)
+- [Recommendation Letter 1](./Mohaddaseh_Ref1.pdf)
+- [Recommendation Letter 2](./Mohaddaseh_Ref2.pdf)
 - Email: mohaddaseh.nikseresht@kuleuven.be
 
 
