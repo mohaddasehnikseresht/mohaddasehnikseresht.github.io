@@ -38,7 +38,8 @@
 - [Curriculum Vitae](./Mohaddaseh_CV.pdf)
 - [Recommendation Letter 1](./Mohaddaseh_Ref1.pdf)
 - [Recommendation Letter 2](./Mohaddaseh_Ref2.pdf)
-- Email: mohaddasehnikseresht@gmail.com
+- Email 1: mohaddasehnikseresht@gmail.com
+- Email 2: mohaddaseh.nikseresht@kuleuven.be
 
 
 
