@@ -35,9 +35,6 @@
 <p style="font-size: 25px; font-weight: bold;" > Professional Experience </p>
 - [ORCID](https://orcid.org/0000-0002-3558-0303)
 - [LinkedIn](https://www.linkedin.com/in/mohaddaseh-nikseresht/)
-- [Recommendation Letter 1](./Mohaddaseh_Ref1.pdf)
-- [Recommendation Letter 2](./Mohaddaseh_Ref2.pdf)
-- [Recommendation Letter 3](./LetterOfRecommendation..pdf)
 - Email 1: mohaddasehnikseresht@gmail.com
 - Email 2: mohaddaseh.nikseresht@kuleuven.be
 
