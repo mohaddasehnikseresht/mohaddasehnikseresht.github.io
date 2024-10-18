@@ -4,9 +4,11 @@
 <div class="photo-text-container">
     <img src="{{ site.photo }}" alt="Your Photo">
     <div>
-     <p style="text-align: justify;"> I’m a Computer Science researcher at the Mechatronics Group (<a href="https://iiw.kuleuven.be/onderzoek/m-group">M-Group</a>) at <a href="https://iiw.kuleuven.be/onderzoek/m-group">KU Leuven</a>. I enjoy solving problems in the fields of AI and Machine Learning. My current research focuses on improving the reliability of Autonomous Mobile Robots (AMRs) against the effects of bit flips by employing advanced software protection techniques. My research is generously supported by the <a href="https://etn-sas.eu/our-project/#:~:text=The%20Safer%20Autonomous%20Systems%20ITN%20project%20is%20designed%20to%20get"> Marie Sklodowska-Curie Fellowship</a>, one of the most prestigious fellowships in Europe. Prior to KU Leuven, I spend some amazing years at <a href="https://shirazu.ac.ir/en/home">Shiraz University</a> working on multi-objective optimization under uncertainty. </p> 
+     <p style="text-align: justify;"> I’m a Computer Science researcher at the Mechatronics Group (<a href="https://iiw.kuleuven.be/onderzoek/m-group">M-Group</a>) at <a href="https://iiw.kuleuven.be/onderzoek/m-group">KU Leuven</a>. I am fortunate enough to be advised by Prof. (<a href="https://www.kuleuven.be/wieiswie/nl/person/0004334"> Jeroen Boydens</a>) and co-advised by Prof. (<a href="https://www.kuleuven.be/wieiswie/en/person/00066189"> Davy Pissoort </a>) and Dr. (<a href="https://www.kuleuven.be/wieiswie/nl/person/00099817"> Jens Vankeirsbilck</a>). I enjoy solving problems in the fields of AI and Machine Learning. My current research focuses on improving the reliability of Autonomous Mobile Robots (AMRs) against the effects of bit flips by employing advanced software protection techniques. My research is generously supported by the <a href="https://etn-sas.eu/our-project/#:~:text=The%20Safer%20Autonomous%20Systems%20ITN%20project%20is%20designed%20to%20get"> Marie Sklodowska-Curie Fellowship</a>, one of the most prestigious fellowships in Europe. Prior to KU Leuven, I spend some amazing years at <a href="https://shirazu.ac.ir/en/home">Shiraz University</a> working on multi-objective optimization under uncertainty working with Prof. (<a href="https://ece.shirazu.ac.ir/en/~m-raji
+"> Jens Vankeirsbilck</a>) </p> 
     </div>
 </div>
+
 
 
 
