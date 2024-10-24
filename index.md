@@ -43,7 +43,7 @@
 - [Recommednation Letter 3](./Ref1.pdf)
 - Email: mohaddaseh.nikseresht@kuleuven.be \| mohaddasehnikseresht@gmail.com
 
-- Email: mohaddasehnikseresht@gmail.com
+
 ---------
 <p style="font-size: 25px; font-weight: bold;" > Publications </p>
 
