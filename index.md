@@ -41,8 +41,7 @@
 - [Recommendation letter 1](./Ref3.pdf) 
 - [Recommednation Letter 2](./Ref2.pdf)
 - [Recommednation Letter 3](./Ref1.pdf) 
-- Email 1: mohaddasehnikseresht@gmail.com
-- Email 2: mohaddaseh.nikseresht@kuleuven.be
+- Email: mohaddasehnikseresht@gmail.com | mohaddaseh.nikseresht@kuleuven.be
 
 
 
