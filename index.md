@@ -39,7 +39,6 @@
 - [LinkedIn](https://www.linkedin.com/in/mohaddaseh-nikseresht/)
 - [Google Scholar](https://scholar.google.com/citations?user=fX2QFHgAAAAJ&hl=en) 
 - [Recommendation letter 1](./Ref3.pdf) 
-- [Recommednation Letter 2](./Ref 2.pdf)
 - [Recommednation Letter 3](./Ref1.pdf)
 - Email: mohaddaseh.nikseresht@kuleuven.be \| mohaddasehnikseresht@gmail.com
 
