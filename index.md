@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="style.css">
 
- <h1>Mohaddaseh Nikseresht</h1>
+ <h1>Mohaddaseh Nikseresht, PhD</h1>
 <div class="photo-text-container">
     <img src="{{ site.photo }}" alt="Your Photo">
     <div>
@@ -23,9 +23,10 @@
 
 ---------
 <p style="font-size: 25px; font-weight: bold;" > Research Interests </p>
-- Machine Learning
+- Reliability 
 - Optimization
-- Reliability
+- Syntax analysis
+- Machine Learning
 - Reinforcement learning
 
 
