@@ -24,6 +24,7 @@
 ---------
 <p style="font-size: 25px; font-weight: bold;" > Research Interests </p>
 - Reliability 
+- Embedded Systems
 - Optimization
 - Syntax analysis
 - Machine Learning
