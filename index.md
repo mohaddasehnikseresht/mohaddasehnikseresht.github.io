@@ -26,9 +26,8 @@
 - Reliability 
 - Embedded Systems
 - Optimization
-- Syntax analysis
 - Machine Learning
-- Reinforcement learning
+
 
 
 
